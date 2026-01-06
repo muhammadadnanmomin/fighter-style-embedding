@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# Dimensionality Reduction
+umap-learn
+
+# Utilities
+jupyter
+tqdm

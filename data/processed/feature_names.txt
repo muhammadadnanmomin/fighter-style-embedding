@@ -1,0 +1,13 @@
+SLpM
+SApM
+Str_Acc
+Str_Def
+TD_Avg
+TD_Acc
+TD_Def
+Sub_Avg
+Height_in
+Reach_in
+Age
+Win_Ratio
+Total_Fights

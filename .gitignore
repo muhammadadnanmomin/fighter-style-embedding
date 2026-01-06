@@ -1,0 +1,27 @@
+# Data
+data/raw/
+data/processed/*.csv
+data/processed/*.npy
+
+# Python Cache & Build Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
